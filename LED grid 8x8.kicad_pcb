@@ -5,7 +5,7 @@
     (no_connects 1)
     (area 110.922999 72.949999 179.653001 126.440001)
     (thickness 1.6)
-    (drawings 27)
+    (drawings 28)
     (tracks 61)
     (zones 0)
     (modules 11)
@@ -633,6 +633,9 @@
       (net 42 "Net-(U1-Pad7)"))
   )
 
+  (gr_text "Marginallyclever.com 2017-3-8\nshift register LED grid" (at 115.57 102.489 90) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_text 1 (at 138.938 121.285 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
